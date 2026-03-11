@@ -19,4 +19,4 @@ My name is dicraft,or you can tell me '烛远'，it's my chinese nickname. <p>
 I'm a developer,mouset time work for Java, sometimes user other language write intrasting tool.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dicraft-Jerry)](https://github.com/anuraghazra/github-readme-stats)
+[![Tian Gao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dicraft-Jerry&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
